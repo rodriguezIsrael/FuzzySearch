@@ -1,9 +1,5 @@
 # FuzzySearch
 
-Proyecto realizado en Java 8 con IDE STS
-
-Instrucciones - Ejecutar desde IDE, Por falta de tiempo no se terminaron Pruebas Unitarias con JUNIT ni configuración para ejectar el .jar y poder acceder a un archivo .txt, por lo cual es preferible ejecutarlo dentro del IDE para poder hacerlo funcionar, dentro del proyecto se encuentra el archivo fuzzy-search.txt
-
 Instrucciones:
 
 Ejecutar el Main.java
